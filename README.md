@@ -43,4 +43,4 @@ We have employed Fabrics and may employ more third-party companies and individua
 
 # Contact Us
 <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
-us @ <i> emmanuelgbnn23@gmail.com</i></p>
+us @ <i> emmanuelgbnn23@gmail.com.</i></p>
